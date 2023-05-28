@@ -1,0 +1,36 @@
+.header-container {
+    background: #1f2937;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.logo {
+    justify-content: flex-start;
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
+}
+
+.nav-link {
+    display: flex;
+    gap: 24px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+
+
+/*
+ul li {
+    display: flex;
+    justify-content: end;
+
+}
+*/
